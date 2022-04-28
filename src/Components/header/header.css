@@ -1,0 +1,59 @@
+.header{
+
+    margin-top: 60px;
+}
+
+
+.headerTitles{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+font-family: 'Lora', serif;
+color: #444;
+
+}
+
+
+.headerTitles1{
+
+position: absolute;
+top: 18%;
+font-size: 20px;
+
+}
+
+
+.headerTitles2{
+
+
+    position: absolute;
+    top: 10%;
+    font-size: 150px;
+    color: navy;
+
+
+}
+
+.headerTitles3{
+
+
+    position: absolute;
+    top: 24%;
+    font-size: 28px;
+    color: black;
+ 
+    background-color: white;
+    font: bold;
+    text-align: center;
+
+
+}
+
+.headerImg{
+
+    width: 100%;
+    height: 450px;
+    margin-top: 80px;
+    object-fit: cover;
+}
