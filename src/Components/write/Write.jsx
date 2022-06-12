@@ -1,11 +1,12 @@
 import './write.css';
 import React from "react";
+import webart from "./webart1.jpg";
 
 export default function write() {
   return (
     <div className="write">
 
-        <img className='writeImage' src="./webart1.jpg" alt="blog post image" />
+        <img className='writeImage' src={webart} alt="blog post image" />
         
        <form className='writeForm'>
         <div className="writeFormGroup">

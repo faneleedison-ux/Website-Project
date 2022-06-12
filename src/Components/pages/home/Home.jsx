@@ -3,6 +3,7 @@ import "./home.css";
 import Sidebar from "../../sidebar/Sidebar";
 import Posts from "../../posts/Posts";
 import React from "react";
+import video from "./video.mp4";
 
 export default function Home() {
   return (
@@ -10,8 +11,11 @@ export default function Home() {
     <>
 
       <Header/>
+      <video  width="1300" height="500" loop muted autoPlay controls >
+              <source src={video}  type="video/mp4"/>
+       </video>
       <div className="home">
-
+     
           
           <Posts/>
          <Sidebar/>

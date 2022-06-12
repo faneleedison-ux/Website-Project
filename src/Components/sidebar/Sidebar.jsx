@@ -1,5 +1,6 @@
 import "./sidebar.css";
 import React from "react";
+import profilepic from "./profilepic.jpeg";
 
 export default function Sidebar() {
   return (
@@ -10,7 +11,7 @@ export default function Sidebar() {
             
             <img 
                  className="siderImage"
-                src="/profilepic.jpeg" alt="image" 
+                src={profilepic} alt="image" 
             />
             <p>My name is Fanelesibonge Mbuyazi, a 24 year University of Cape Town graduate and currently doing my postgraduate
                 studies at the University of Witwatersrand. This is my first react js project for my interactive media 

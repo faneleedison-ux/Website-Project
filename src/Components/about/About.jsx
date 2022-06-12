@@ -1,5 +1,7 @@
 import "./about.css";
 import React from "react";
+import profilepic from "./profilepic.jpeg";
+//import folder from "./folder.jpg";
 
 export default function Sidebar() {
   return (
@@ -10,7 +12,8 @@ export default function Sidebar() {
             
             <img 
                  className="siderImage"
-                src="/profilepic.jpeg" alt="image" 
+                src= {profilepic}
+                alt="image" 
             />
             <p>For collaborations or enquiries you can contact me at 1345397@students.wits.ac.za
             </p>

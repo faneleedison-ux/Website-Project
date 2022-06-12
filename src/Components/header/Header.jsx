@@ -14,9 +14,7 @@ export default function Header() {
 
         </div>
 
-              <video className="headerImg" width="1500" height="500" loop muted autoPlay controls >
-              <source src="/video.mp4"  type="video/mp4"/>
-              </video>
+              
 
       
        

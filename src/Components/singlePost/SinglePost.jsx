@@ -1,11 +1,12 @@
 import "./singlePost.css";
 import React , { Component} from 'react';
+import webart1 from "./webart1.jpg";
 
 export default function SinglePost() {
   return (
     <div className="singlePost">
         <div className="singlePostWrapper">
-        <img className="singlePostImg" src="./webart1.jpg" alt="Image Post" />
+        <img className="singlePostImg" src={webart1} alt="Image Post" />
 
         </div>
         <h1 className="singlePostTitle">

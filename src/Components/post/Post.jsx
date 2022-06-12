@@ -3,13 +3,14 @@ import "./post.css";
 import SinglePost from "../singlePost/SinglePost";
 import Single from "../pages/single/Single";
 import { Link } from "react-router-dom";
+import folder from "./folder.jpg";
 
 export default function Post() {
   return (
     <div className="post">
         < Link to="/single">
         <img className="postImg"
-         src="/folder.jpg" alt="image" />
+         src={folder} alt="image" />
          </Link>
 
 

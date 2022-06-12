@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import profilepic from "./profilepic.jpeg";
 
 import "./topbar.css";
 
@@ -48,6 +49,18 @@ export default function topbar() {
                 <Link to= "/write" style={ {textDecoration: "none" , color :"inherit"}}>
                           WRITE
                 </Link></il>
+
+        <il className="topListItem"> 
+
+                <Link to= "/design" style={ {textDecoration: "none" , color :"inherit"}}>
+                          DESIGN
+                </Link></il>
+
+        <il className="topListItem"> 
+
+                <Link to= "/art" style={ {textDecoration: "none" , color :"inherit"}}>
+                          E-ART
+                </Link></il>
         </ul>
       
       
@@ -59,7 +72,8 @@ export default function topbar() {
 
         <img 
         className="topImage"
-        src="/profilepic.jpeg" alt="image" />
+        src={profilepic}
+         alt="image" />
         <i className="topSearch fa-solid fa-magnifying-glass"></i>
       
       </div>
