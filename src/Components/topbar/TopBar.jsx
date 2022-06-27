@@ -36,24 +36,16 @@ export default function topbar() {
           </il>
         <il className="topListItem"> 
                 <Link to= "/blog" style={ {textDecoration: "none" , color :"inherit"}}>
-                          BLOG
+                          BLOGS
                 </Link></il>
-        <il className="topListItem">
-
-                <Link to= "/contact" style={ {textDecoration: "none" , color :"inherit"}}>
-                          CONTACT
-                </Link>
-        </il>
-        <il className="topListItem"> 
-
-                <Link to= "/write" style={ {textDecoration: "none" , color :"inherit"}}>
-                          WRITE
-                </Link></il>
+       
+        
+        
 
         <il className="topListItem"> 
 
                 <Link to= "/design" style={ {textDecoration: "none" , color :"inherit"}}>
-                          DESIGN
+                          DESIGN 
                 </Link></il>
 
         <il className="topListItem"> 

@@ -1,8 +1,18 @@
 .posts{
 
   
-    flex: 9;
+    flex: 20;
     display: flex;
     flex-wrap: wrap;
-    margin: 40px;
+    margin: 200px;
+}
+
+.HEADING{
+
+
+    font-size: large;
+    
+    margin: 500px;
+    text-align: right;
+    padding: 20px;
 }

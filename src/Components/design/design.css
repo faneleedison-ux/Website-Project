@@ -16,3 +16,12 @@
     justify-content: center;
    
 }
+
+.posts{
+
+  
+    flex: 20;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 200px;
+}

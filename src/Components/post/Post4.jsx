@@ -8,10 +8,10 @@ import folder from "./folder.jpg";
 export default function Post() {
   return (
     <div className="post">
-        < Link to="/single">
+        < a href="https://webartprojects.blogspot.com/2022/06/assignment-2-technical-and-creative.html">
         <img className="postImg"
          src={folder} alt="image" />
-         </Link>
+         </a>
 
 
          <div className="postInfo">
@@ -22,17 +22,17 @@ export default function Post() {
              </div>
 
              <span className="postTitle">
-                 Critical Writing: Design And Aestatics
+             Assignment 2 :Creative And Technical Web Art Reflections
              </span>
              <hr />
 
              <span className="postDate">
-                 19 April 2022
+                 26 June 2022
              </span>
 
          </div>
 
-        <p className="postDesciption"> Using the theoretical framework procived in the course and my own selection of blog posts, artcicles and examples I will disciss the core princples of design and aesthetics for the web. All work is referenced.
+        <p className="postDesciption"> Assignment 2 :Creative And Technical Reflections On The Development Of The Website During The Semester
              </p>
     </div>
   )
