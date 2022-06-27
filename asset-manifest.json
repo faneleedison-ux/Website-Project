@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/Website-Updated/static/css/main.1ece53d4.css",
-    "main.js": "/Website-Updated/static/js/main.ecc31a01.js",
-    "static/media/video.mp4": "/Website-Updated/static/media/video.5248dc471e0686c9403a.mp4",
-    "static/media/vid.mp4": "/Website-Updated/static/media/vid.b26ab6f7540f9218f82e.mp4",
-    "static/media/Covid2.jpg": "/Website-Updated/static/media/Covid2.3448db9eab67390317da.jpg",
-    "static/media/1.png": "/Website-Updated/static/media/1.769dcd1f48854df67cef.png",
-    "static/media/3.png": "/Website-Updated/static/media/3.0151f99980e0dbb8f77d.png",
-    "static/media/webart1.jpg": "/Website-Updated/static/media/webart1.85f58ac5259bc0392d12.jpg",
-    "static/media/Covid1.jpg": "/Website-Updated/static/media/Covid1.47b0a18c31d01d4ac111.jpg",
-    "static/media/2.png": "/Website-Updated/static/media/2.9ac4212fee52455774e9.png",
-    "static/media/profilepic.jpeg": "/Website-Updated/static/media/profilepic.37922933d383d564efff.jpeg",
-    "index.html": "/Website-Updated/index.html",
-    "main.1ece53d4.css.map": "/Website-Updated/static/css/main.1ece53d4.css.map",
-    "main.ecc31a01.js.map": "/Website-Updated/static/js/main.ecc31a01.js.map"
+    "main.css": "/Website-Project/static/css/main.4d2c8c32.css",
+    "main.js": "/Website-Project/static/js/main.e06287c4.js",
+    "static/media/video.mp4": "/Website-Project/static/media/video.5248dc471e0686c9403a.mp4",
+    "static/media/Covid2.jpg": "/Website-Project/static/media/Covid2.3448db9eab67390317da.jpg",
+    "static/media/1.png": "/Website-Project/static/media/1.769dcd1f48854df67cef.png",
+    "static/media/3.png": "/Website-Project/static/media/3.0151f99980e0dbb8f77d.png",
+    "static/media/webart1.jpg": "/Website-Project/static/media/webart1.85f58ac5259bc0392d12.jpg",
+    "static/media/Covid1.jpg": "/Website-Project/static/media/Covid1.47b0a18c31d01d4ac111.jpg",
+    "static/media/2.png": "/Website-Project/static/media/2.9ac4212fee52455774e9.png",
+    "static/media/profilepic.jpeg": "/Website-Project/static/media/profilepic.37922933d383d564efff.jpeg",
+    "index.html": "/Website-Project/index.html",
+    "main.4d2c8c32.css.map": "/Website-Project/static/css/main.4d2c8c32.css.map",
+    "main.e06287c4.js.map": "/Website-Project/static/js/main.e06287c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ece53d4.css",
-    "static/js/main.ecc31a01.js"
+    "static/css/main.4d2c8c32.css",
+    "static/js/main.e06287c4.js"
   ]
 }
